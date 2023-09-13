@@ -1,5 +1,13 @@
 .profilepicture {
-	width: 200px;
-  	height: 121px;
+	width: 100px;
+  	height: 100px;
   	align: middle;
+}
+
+.h3 {
+	align: middle;
+}
+
+.body {
+	border-style: solid;
 }
