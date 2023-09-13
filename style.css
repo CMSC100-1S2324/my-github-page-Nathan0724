@@ -7,8 +7,8 @@
 }
 
 .image-row {
-  height: 72px;
-  width: 128px;
+  height: 144px;
+  width: 256px;
   display: flex;
   justify-content: space-between;
   border: 20%;
@@ -16,8 +16,8 @@
 }
 
 h2 {
+	text-align: center;
 	align-items: middle;
-	justify-content: space-between;
 }
 
 h4 {
