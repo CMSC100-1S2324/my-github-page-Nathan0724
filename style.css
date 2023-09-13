@@ -6,17 +6,13 @@
 	radius: 100px;
 }
 
-.projects {
-	width: 96px;
-  	height: 54px;
-  	align: middle;
-  	border: 20%;
-	radius: 100px;
-}
-
 .image-row {
+  height:108px;
+  width:192px;
   display: flex;
   justify-content: space-between;
+  border: 20%;
+  radius: 100px;
 }
 
 h4 {
