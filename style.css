@@ -14,18 +14,9 @@
 	radius: 100px;
 }
 
-.flex-container {
-	background-color: orange;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-}
-
-.flex-item {
-	flex: auto;
-	border: 1px solid black;
+.image-row {
+  display: flex;
+  justify-content: space-between;
 }
 
 h4 {
