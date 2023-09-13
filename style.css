@@ -1,28 +1,60 @@
+html{
+    border: solid;
+    height: auto;
+    margin: 20px;
+}
+
 .profilepicture {
-	width: 132px;
-  	height: 127px;
+/*	width: 132px;
+  	height: 127px;*/
+  	width: 15%;
+  	height: 15%;
   	align: middle;
-  	border: 20%;
+  	border: 1px solid black;
 	radius: 100px;
+	margin-bottom: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
 }
 
 .featuredphoto {
-	width: 50%;
-  	height: 50%;
+	width: 60%;
+  	height: 60%;
   	align: middle;
-  	border: 20%;
+  	border: 2px solid black;
 	radius: 100px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-between;
+}
+
+.flex-item {
+	flex: auto;
+	border: 2px solid black;
 }
 
 h2 {
 	text-align: center;
 	border: 3px solid black;
+	margin: 10px;
 }
 
 h4 {
 	text-align: center;
+	margin: 10px;
 }
 
 p {
 	align: justify;
+	margin: 10px;
 }
