@@ -16,7 +16,6 @@
 }*/
 
 .flex-container {
-	background-color: orange;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
