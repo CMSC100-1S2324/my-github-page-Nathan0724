@@ -7,8 +7,8 @@
 }
 
 .projects {
-	width: 192px;
-  	height: 108px;
+	width: 96px;
+  	height: 54px;
   	align: middle;
   	border: 20%;
 	radius: 100px;
@@ -26,4 +26,8 @@
 .flex-item {
 	flex: auto;
 	border: 1px solid black;
+}
+
+h4 {
+	align-items: center;
 }
