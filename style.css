@@ -34,22 +34,16 @@ a {
   	border: 1px solid black;
   	border-radius: 10px;
 /*	radius: 100px;*/
-	margin-bottom: 0px;
-	margin-right: 20px;
-	margin-left: 20px;
-	margin-top: 20px;
+	margin: 10px;
 }
 
 .featuredphoto {
-	width: 60%;
-  	height: 60%;
+	width: 80%;
+  	height: 80%;
   	align: middle;
   	border: 2px solid black;
 	radius: 100px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-	margin-left: 20px;
-	margin-top: 0px;
+	margin: 10px;
 }
 
 .flex-container {
