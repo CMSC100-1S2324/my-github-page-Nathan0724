@@ -6,6 +6,14 @@
 	radius: 100px;
 }
 
+.featuredphoto {
+	width: 50%;
+  	height: 50%;
+  	align: middle;
+  	border: 20%;
+	radius: 100px;
+}
+
 h2 {
 	text-align: center;
 	border: 3px solid black;
