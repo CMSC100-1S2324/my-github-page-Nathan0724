@@ -4,15 +4,37 @@ html{
     margin: 20px;
 }
 
+h2 {
+	text-align: center;
+	border: 3px solid black;
+	margin: 10px;
+}
+
+h4 {
+	text-align: center;
+	margin: 10px;
+}
+
+p {
+	margin: 10px;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+a {
+	margin-left: 10px;
+}
+
 .profilepicture {
-/*	width: 132px;
-  	height: 127px;*/
   	width: 15%;
   	height: 15%;
   	align: middle;
   	border: 1px solid black;
-	radius: 100px;
-	margin-bottom: 10px;
+  	border-radius: 10px;
+/*	radius: 100px;*/
+	margin-bottom: 0px;
 	margin-right: 20px;
 	margin-left: 20px;
 	margin-top: 20px;
@@ -27,7 +49,7 @@ html{
 	margin-bottom: 20px;
 	margin-right: 20px;
 	margin-left: 20px;
-	margin-top: 10px;
+	margin-top: 0px;
 }
 
 .flex-container {
@@ -43,18 +65,18 @@ html{
 	border: 2px solid black;
 }
 
-h2 {
-	text-align: center;
-	border: 3px solid black;
-	margin: 10px;
+.bottomprofilepicture {
+	width: 15%;
+  	height: 15%;
+  	align: middle;
+  	border: 1px solid black;
+  	border-radius: 10px;
+/*	radius: 100px;*/
+	margin: 20px;
+	float: left;
 }
 
-h4 {
-	text-align: center;
-	margin: 10px;
-}
-
-p {
-	align: justify;
-	margin: 10px;
+.bottominfo {
+	margin-top: 20px;
+	float: left;
 }
