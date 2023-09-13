@@ -12,11 +12,9 @@ h2 {
 }
 
 h4 {
-	align: center;
-	border: 2px solid black;
+	text-align: center;
 }
 
 p {
 	align: justify;
-	border: 2px solid black;
 }
