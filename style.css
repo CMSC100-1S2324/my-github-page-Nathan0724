@@ -15,6 +15,10 @@
   radius: 100px;
 }
 
+h2 {
+	align-items: middle;
+}
+
 h4 {
 	align-items: center;
 }
