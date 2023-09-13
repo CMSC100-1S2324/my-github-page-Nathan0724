@@ -6,6 +6,14 @@
 	radius: 100px;
 }
 
+.projects {
+	width: 192px;
+  	height: 108px;
+  	align: middle;
+  	border: 20%;
+	radius: 100px;
+}
+
 .flex-container {
 	background-color: orange;
 	display: flex;
